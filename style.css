@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+    color:red;
+}
+#myCanvas{
+    border:2px solid black;
+    background-color: rgb(146, 235, 235);
+}
